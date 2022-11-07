@@ -11,5 +11,6 @@ public class DemoGitApplication {
     }
 
     // featyre/C4PS1-359
+    // Изменение 2
 
 }
